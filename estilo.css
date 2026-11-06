@@ -59,6 +59,7 @@ h1 {
 
   background: #252525;
   color: white;
+  box-shadow: 0 0 18px 4px white;
 
 
   cursor: pointer;
